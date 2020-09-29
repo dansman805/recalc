@@ -15,6 +15,7 @@ import linear from "web/calculators/linear_mech";
 import pneumatics from "web/calculators/pneumatics";
 import compressors from "web/compressors";
 import filaments from "web/filaments";
+import knowledge from "web/knowledge";
 import Landing from "web/landing";
 import motors from "web/motors";
 import { URL as profileURL } from "web/profile";
